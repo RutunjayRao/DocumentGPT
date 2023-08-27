@@ -1,6 +1,6 @@
 # Document-Chatbot
 
-Using LangChain and ChatGPT a Multi-Document Reader and Chatbot is made. It can read documents in any form (pdf, text, csv) and remember previous conversations.
+Using LangChain and ChatGPT a multi-document reader and Chatbot is made. It can read documents in any form (pdf, text, csv) and remember previous conversations.
 
 We can see a few prompts and the chatbot's replies below:
 
@@ -15,3 +15,5 @@ Documents in docs2: (2 research papers regarding wavelet neural networks)
 ![image](https://github.com/RutunjayRao/Document-Chatbot/assets/89570687/5d003d14-78f2-498f-baf2-e2b97d2d6d98)
 
 We are using 'gpt-3.5'; 'gpt-3.5-turbo-16k' can also be used (worked in local repo)
+
+I have not used more than 2 files since I have a limit on the number of tokens by OpenAI, but you can use more files if you need in your local repo.
