@@ -1,4 +1,4 @@
-# Document-Chatbot
+# DocumentGPT
 
 Using LangChain and ChatGPT a multi-document reader and Chatbot is made. It can read documents in any form (pdf, text, csv) and remember previous conversations.
 
